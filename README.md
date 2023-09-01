@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xinrui</h1>
-<h3 align="center">Focus: Backend Development (Java, Go, Python)</h3>
+<h3 align="center">Focus: Backend Development (Java, Go, TypeScript)</h3>
 
 <p align="left">
 </p>
